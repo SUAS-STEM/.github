@@ -1,1 +1,3 @@
 SUAS@STEM is Tesla STEM High School's competition team for the [RoboNation Student Unmanned Aerial Systems](https://suas-competition.org/) (SUAS) competition. Our team designs and builds autonomous aircraft capable of performing complex real-world missions including navigation, computer vision, and payload delivery.
+
+[Learn more](https://suasstem.org)
